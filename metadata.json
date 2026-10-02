@@ -1,0 +1,6 @@
+{
+  "name": "Puja Expense Chatbot",
+  "description": "AI-powered Text-to-SQL chatbot for querying 2025 Puja Expense Transactions with in-memory SQL execution and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
